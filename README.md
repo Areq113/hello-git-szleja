@@ -1,2 +1,2 @@
 # hello-git-szleja
-# Technologia informacyjna lab_12
+# Technologie informacyjne lab_12
